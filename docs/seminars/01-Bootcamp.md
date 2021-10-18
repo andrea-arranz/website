@@ -8,7 +8,7 @@ hide:
 ### WHAT'S YOUR FIGHT? 
 #### Reflections about myself
 
-![](../images/img05.jpg =250x250)
+![](../images/img05.jpg)
 
 While thinking about this question I thought about myself as an individual and I found that I didn’t have a really remarkable fight.
 
@@ -30,7 +30,8 @@ On this photograph taken on Christmas in 2020, I was at my grandmother’s home 
 
 Going back to my grandmother’s photograph I found a little thing that surprise me. She designs a photo frame using her little clock. This clock has a perfect size, inclination angle and shapes to attach my grandmother’s photograph. This frame was a non-intentional design, an object that works behind its use. 
 
-![](../images/img04.png)
+![](../images/img04.png) 
+	<img align="right" src="img04.png">
 
 ![](../images/img06.jpg)
 
