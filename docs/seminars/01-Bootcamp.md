@@ -3,8 +3,8 @@ hide:
     - toc
 ---
 
-# **WEEK O1**
-## **Bootcamp**
+# **Bootcamp**
+
 
 ### WHAT'S YOUR FIGHT?
 While thinking about this question I thought about myself as an individual and I found that I didn’t have a really remarkable fight.
