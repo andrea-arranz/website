@@ -8,7 +8,7 @@ hide:
 ### WHAT'S YOUR FIGHT? 
 #### Reflections about myself
 
-![](../images/img05.jpg)
+![](../images/img05.jpg =250x250)
 
 While thinking about this question I thought about myself as an individual and I found that I didn’t have a really remarkable fight.
 
