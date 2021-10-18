@@ -32,7 +32,7 @@ Going back to my grandmother’s photograph I found a little thing that surprise
 
 ![](../images/img04.png)
 
-![](../images/wyf.pdf)
+![](../images/img06.jpg)
 
 ### FIRST PERSPECTIVE
 
@@ -43,4 +43,10 @@ One of the implications in the sentence above is about taking the context as a p
 In first perspective I have to put myself in context. At first I have to reflect about whats my vision, to develop this vision we did a personal development plan. This plan relates what I am now and what I want to be to materialized trough actions where I want to lead. 
 
 
+### POBLENOU TOUR
+
+
+![](../images/img07.jpg)
+![](../images/img08.jpg)
+![](../images/img09.jpg)
 
