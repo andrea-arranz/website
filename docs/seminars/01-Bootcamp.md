@@ -38,15 +38,22 @@ Going back to my grandmother’s photograph I found a little thing that surprise
 
 All the things that surround us are involved in the system we are designing for, is the **ecosystem** and **context** we are designing with. 
 
-One of the implications in the sentence above is about taking the context as a partner, as an active agent in the design process and use it as a tool.
+One of the implications in the sentence above is about taking the context as a partner, as an active agent in the design process, and use it as a tool.
 
-In first perspective I have to put myself in context. At first I have to reflect about whats my vision, to develop this vision we did a personal development plan. This plan relates what I am now and what I want to be to materialized trough actions where I want to lead. 
+In first perspective approach I have to put myself in context. At first, I have to reflect about whats my vision, to develop this vision we did a personal development plan. This plan relates what I am now and what I want to be to materialized through actions where I want to lead. 
+ 
+
+![](../images/img010.jpg)
 
 
 ### POBLENOU TOUR
 
-
 ![](../images/img07.jpg)
+
+We visited some places in Poblenou that make us realized how the neighborhood works and its community. Also made me start to observe in points of view related to what we did at the beginning of the week. 
+
 ![](../images/img08.jpg)
 ![](../images/img09.jpg)
+
+These are some non-intentional designs I found in the streets.
 
