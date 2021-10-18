@@ -43,7 +43,7 @@ One of the implications in the sentence above is about taking the context as a p
 In first perspective approach I have to put myself in context. At first, I have to reflect about whats my vision, to develop this vision we did a personal development plan. This plan relates what I am now and what I want to be to materialized through actions where I want to lead. 
  
 
-![](../images/img010.jpg)
+![](../images/img10.jpg)
 
 
 ### POBLENOU TOUR
