@@ -5,6 +5,9 @@ hide:
 
 # Atlas of Weak Signals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This week we have developed our first design space. This design space will be the space where we relate all the things we find in our contexts. These "things" can be objects, signals, trends, people, places.... Being together and sharing space those things can be related to each other through connections that we can't imagine at first seeing things in isolation. 
 
-![](../images/MT01/scorpio_blow.jpg)
+In a way to start developing the space we made a first exercise with cards. These cards contain some topics, weak signals or areas of interest. This exercise works by making relations between random topics in a way to expand and generate knowledge by relating topics and making connections.
+
+After this exercise we started developing our first moodboard in the design space with our interests using the cards. 
+
