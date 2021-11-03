@@ -11,3 +11,6 @@ In a way to start developing the space we made a first exercise with cards. Thes
 
 After this exercise we started developing our first moodboard in the design space with our interests using the cards. 
 
+![](../images/img11.png)
+First design space
+
