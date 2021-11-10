@@ -1,6 +1,6 @@
 :root>* {
 
-    --md-footer-bg-color: f0c9c9;
+    --md-footer-bg-color: rgb(240, 201, 201);
     --md-footer-fg-color: rgb(32, 32, 32);
     --md-footer-bg-color--dark: white;
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
