@@ -19,6 +19,7 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+    
     scheme: andrea
     primary: white
     accent: orange
@@ -33,7 +34,6 @@ theme:
     - navigation.tabs
 
 plugins:
-  - search
   - git-revision-date-localized:
       fallback_to_build_date: true
 
