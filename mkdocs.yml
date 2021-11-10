@@ -31,7 +31,6 @@ theme:
   favicon: images/favicon.svg
   features:
     - navigation.tabs
-    - toc.integrate
 
 plugins:
   - git-revision-date-localized:
@@ -45,8 +44,6 @@ markdown_extensions:
   - pymdownx.superfences
   - codehilite:
       guess_lang: false
-  - toc:
-      permalink: true
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
