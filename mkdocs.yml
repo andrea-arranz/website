@@ -34,9 +34,6 @@ theme:
     - navigation.tabs.sticky
     - toc.integrate
 
-plugins:
-  - git-revision-date-localized:
-      fallback_to_build_date: false
 
 markdown_extensions:
   - extra
