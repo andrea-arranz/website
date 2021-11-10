@@ -32,8 +32,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-theme:
-  features:
     - toc.integrate
 
 plugins:
