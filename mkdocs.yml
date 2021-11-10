@@ -32,6 +32,12 @@ theme:
   features:
     - navigation.tabs
 
+---
+hide:
+  - toc
+---
+
+
 plugins:
   - git-revision-date-localized:
       fallback_to_build_date: true
