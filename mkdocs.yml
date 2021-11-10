@@ -31,6 +31,7 @@ theme:
   favicon: images/favicon.svg
   features:
     - navigation.tabs
+    - toc.integrate
 
 plugins:
   - git-revision-date-localized:
