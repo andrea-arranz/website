@@ -12,6 +12,11 @@
 
 }
 
+[data-md-color-scheme="andrea"] {
+  --md-primary-fg-color:        #A07178;
+  --md-primary-fg-color--light: #E6CCBE;
+  --md-primary-fg-color--dark:  #5A5353;
+}
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
