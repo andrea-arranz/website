@@ -31,12 +31,10 @@ theme:
   favicon: images/favicon.svg
   features:
     - navigation.tabs
-
----
-hide:
-  - toc
----
-
+    - navigation.tabs.sticky
+theme:
+  features:
+    - toc.integrate
 
 plugins:
   - git-revision-date-localized:
