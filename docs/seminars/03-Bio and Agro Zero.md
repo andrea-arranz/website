@@ -8,7 +8,7 @@ hide:
 
 **Bioluminescence of the Largest Luminous Vertebrate, the Kitefin Shark, Dalatias licha: First Insights and Comparative Aspects**
 
-Jérôme Mallefet, Darren W. Stevens and Laurent Duchatelet
+**Jérôme Mallefet, Darren W. Stevens and Laurent Duchatelet**
 
 In this paper the authors studied the bioluminescence in three species of deepwater sharks. The dissertation describes the bioluminiscence’s causes, how these shark’s cells can produce light, and the ability of those species to control light emission. 
 
