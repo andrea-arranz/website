@@ -25,5 +25,6 @@ Forensics of the Obsolescence (iMac2006)
 **Tested:** Working
 
 ![](../images/img16.jpg)
+
 **A World in Data**
 
