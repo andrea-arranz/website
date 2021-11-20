@@ -41,6 +41,22 @@ It's interesting how this biotechnological progress allows us to improve differe
 
 **Hypothesis: Through 3D impression it's possible to print a luminous organ and control light with a hormone system.**
 
+![](../images/img20.png)
+
+A photophore is a glandular organ that appears as luminous spots. Taking a sample of this organ from the corresponding animal and cultivating the different cells from this organ, I will be able to print in 3D replicating the same structural characteristics and functions of the organ sample. 
+
+In order to improve the emission of light, I can modify the genes that are responsible for synthesizing the photoproteins by CRISPR Cas9. 
+
+Through an array with the modified cells from this organ, I 3D print it. This new organ in an appropriate environment could be modified with a hormonal system with MT, α-MSH, and ACTH. This hormonal system immerses the organ in a specific concentration of each hormone in order to “turn off”, “turn on”, and change the light intensity. 
+
+
+References: 
+
+Press DA, Melikov R, Conkar D, Firat-Karalar EN, Nizamoglu S. Fluorescent protein integrated white LEDs for displays. Nanotechnology. 2016 Nov 11;27(45):45LT01. doi: 10.1088/0957-4484/27/45/45LT01. Epub 2016 Oct 7. PMID: 27713186.
+
+Shaner, Nathan C; Steinbach, Paul A; Tsien, Roger Y (2005). A guide to choosing fluorescent proteins. , 2(12), 905–909. doi:10.1038/nmeth819
+
+https://www.the-scientist.com/news-opinion/on-the-road-to-3-d-printed-organs-67187
 
 
 
