@@ -26,3 +26,24 @@ Since Edison created the first commercially practical incandescent light, our li
 
 ![](../images/img18.jpg)
 Ambio- Teresa van Dongen
+
+**Design a mutant**
+
+I started with one simple question: **It’s possible to use photocytes or photoproteins to use them on screens?**
+
+When I was looking in the background research phase I found that some scientifics had developed LED´s with fluorescent proteins “to use as a backlight source for liquid crystal (LC) displays”. Those proteins are eGFP (green fluorescent protein) and mCherry (red fluorescent protein). “The expression and purification of the proteins were done in six
+steps, which were: transformation, induction, cell harvest, lysis, purification and concentration.” After that, they integrated these proteins on blue LED chips to generate white light.  
+
+![](../images/img19.jpg)
+mCherry
+
+It's interesting how this biotechnological progress allows us to improve different aspects of life. Using fluorescent proteins in LEDs reduces e-waste but, Can we make biodegradable light in all of its aspects?
+
+**Hypothesis: Through 3D impression it's possible to print a luminous organ and control light with a hormone system.**
+
+
+
+
+
+
+
