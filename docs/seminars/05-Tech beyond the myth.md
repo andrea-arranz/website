@@ -40,4 +40,11 @@ Forensics of the Obsolescence (iMac2006)
 ![](../images/img21.jpg)
 
 
+		Edging on the inside and outside,
+		In an instant 
+		you'll see the real me
+
+<a href="https://docs.google.com/presentation/d/1zpwImHPyE4mVt0Jv1eeQMsvhpWbciDpOHfGtBNV87SQ/edit#slide=id.p"><img src="img22.jpg" alt="" style="width:42px;height:42px;"></a>
+Presentation
+
 
