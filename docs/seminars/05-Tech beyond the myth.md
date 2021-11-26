@@ -31,8 +31,13 @@ Forensics of the Obsolescence (iMac2006)
 
 **Almost useless machine: A3P2**
 
+![](../images/img22.jpg)
+
 <iframe src="https://player.vimeo.com/video/650292328?h=a64379c3d8" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/650292328">A3P2.mp4</a> from <a href="https://vimeo.com/user30409675">paula del rio arteaga</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+![](../images/img21.jpg)
 
 
 
