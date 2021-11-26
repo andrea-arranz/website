@@ -47,4 +47,4 @@ Forensics of the Obsolescence (iMac2006)
 <a href="https://docs.google.com/presentation/d/1zpwImHPyE4mVt0Jv1eeQMsvhpWbciDpOHfGtBNV87SQ/edit#slide=id.p"><img src="img22.jpg" alt="" style="width:42px;height:42px;"></a>
 Presentation
 
-
+The whole is greater than the sum of its parts. In A3P2 we worked to develop the structure, the mechanics, and the code according to our skills and the short amount of time we had to design the prototype. Assembling the pieces I realized that the vertical movement or the light system with fiber optics in which I’d been immersed were more than only mechanics and materials, they were a system. Once we had the robot working we couldn't stop projecting human skills to it. At first, we design a machine to feel an emotion by using it, but in the end, I feel that we design a machine to express this emotion. 
