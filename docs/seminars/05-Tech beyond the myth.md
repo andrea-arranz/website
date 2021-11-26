@@ -42,7 +42,7 @@ The whole is greater than the sum of its parts. In A3P2 we worked to develop the
 ![](../images/img21.jpg)
 
 
-<a href="https://docs.google.com/presentation/d/1zpwImHPyE4mVt0Jv1eeQMsvhpWbciDpOHfGtBNV87SQ/edit#slide=id.p"><img src="![](../images/img21.jpg)" alt="" style="width:42px;height:42px;"></a>
+<a href="https://docs.google.com/presentation/d/1zpwImHPyE4mVt0Jv1eeQMsvhpWbciDpOHfGtBNV87SQ/edit#slide=id.p"><img src="img22.jpg" alt="" style="width:42px;height:42px;"></a>
 Presentation
 
 
