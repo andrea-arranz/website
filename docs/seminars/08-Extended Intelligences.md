@@ -9,7 +9,7 @@ One of the exercises we had to do was take 100 photos of Poblenou neighborhood, 
 
 ![](../images/img29.png)
 
-A photo association that I found interesting; the association between shapes and content made the AI put together a Petri dish and a breakfast. 
+A photo association that I found interesting; the association between shapes and content made the AI put together a Petri dish and a breakfast. The photos were mapped by visual similarity with machine learning.
 
 ![](../images/img30.png)
 
@@ -25,7 +25,9 @@ The AI generated new faces based on the datasets and we could modify them with p
 One thing I found interesting in those projects is mixing two faces.
 I uploaded a random photograph and I mix it with Lisa Simpson, and the output was a realistic photo with the man but with some yellow tones. So he seems to be ill. 
 
-![](../images/img32.png)
+![](../images/img33.png)
+
+I appreciate the day that Taller Estampa shared references. Knowing how people use AI in artworks or design works helps me understand better some concepts about AI.
 
 **Project end of the week**
 This is the [presentation](https://docs.google.com/presentation/d/1-4Eb5VKIGf3kqSfr40TxhLEWaPGLjzwR7zazM_jlasY/edit#slide=id.p) of the project. 
@@ -38,6 +40,11 @@ The result is an image of a non-existent product.
 
 
 ## **Week 02**
+
+The next week we went deeper into these topics. The lecturers help us to understand this tech from a more theoretical point of view. Thanks to the knowledge I got a more critical point of view about the use of the tech and our relationship with it. Considering its ethics and the boundaries of these systems we explore concepts as Animistic Design and systems theory. 
+
+**Project end of the week**
+This is the [presentation](https://docs.google.com/presentation/d/1CrRe5yybDSZbeRKk2SzEaL3XlqUseIIq2drmNWB64fo/edit#slide=id.p) of the project.
 
 
 
