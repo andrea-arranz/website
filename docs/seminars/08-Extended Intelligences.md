@@ -5,6 +5,8 @@ hide:
 # Extended Intelligences
 ## **Week 1**
 
+This week, thanks to Taller Estampa, we have approached the concept of artificial intelligence and its layers. We learned basic concepts about the architecture of neural networks and their types. We also understood the process of the AI concept in history and how we have been pushing one step further that "intelligence" associated to the machine each time a technological advance was achieved.
+
 One of the exercises we had to do was take 100 photos of Poblenou neighborhood, 50 of them of something related to the old Poblenou and 50 with the new one. Also, we had to upload 100 random photos from our phones. Base on these two sets, the professors would generate a map for classifying the images and generate new ones. 
 
 ![](../images/img29.png)
