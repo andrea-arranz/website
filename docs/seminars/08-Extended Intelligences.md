@@ -2,14 +2,14 @@
 hide:
     - toc
 ---
-# **Extended Intelligences**
+# Extended Intelligences
 ## **Week 1**
 
 One of the exercises we had to do was take 100 photos of Poblenou neighborhood, 50 of them of something related to the old Poblenou and 50 with the new one. Also, we had to upload 100 random photos from our phones. Base on these two sets, the professors would generate a map for classifying the images and generate new ones. 
 
 ![](../images/img29.png)
 
-A photo association that I found interesting:
+A photo association that I found interesting; the association between shapes and content made the AI put together a Petri dish and a breakfast. 
 
 ![](../images/img30.png)
 
@@ -28,9 +28,12 @@ I uploaded a random photograph and I mix it with Lisa Simpson, and the output wa
 ![](../images/img32.png)
 
 **Project end of the week**
-This is the [presentation] (https://docs.google.com/presentation/d/1-4Eb5VKIGf3kqSfr40TxhLEWaPGLjzwR7zazM_jlasY/edit#slide=id.p) of the project. 
+This is the [presentation](https://docs.google.com/presentation/d/1-4Eb5VKIGf3kqSfr40TxhLEWaPGLjzwR7zazM_jlasY/edit#slide=id.p) of the project. 
+
 **Starter pack generator** 
+
 ![](../images/img34.jpg)
+
 The result is an image of a non-existent product. 
 
 
