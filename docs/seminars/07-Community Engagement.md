@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-#**Community Engagement**
+# Community Engagement
 
 Week progress
 
