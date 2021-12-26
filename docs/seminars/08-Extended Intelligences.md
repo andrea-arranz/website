@@ -41,7 +41,7 @@ This is the [presentation](https://docs.google.com/presentation/d/1-4Eb5VKIGf3kq
 The result is an image of a non-existent product. 
 
 
-## **Week 02**
+## **Week 2**
 
 The next week we went deeper into these topics. The lecturers help us to understand this tech from a more theoretical point of view. Thanks to the knowledge I got a more critical point of view about the use of the tech and our relationship with it. Considering its ethics and the boundaries of these systems we explore concepts as Animistic Design and systems theory. 
 
