@@ -47,6 +47,13 @@ In first perspective approach I have to put myself in context. At first, I have 
 ![](../images/img10.jpg)
 
 
+After collecting and summarizing these points we met each other to see our points of attraction or repulsion. These meetings help me to focus and place my own identity inside the context and to start to see synergies between us. 
+
+**My personal vision**
+
+The uncertainty about the future is a usual source of fear. We cannot separate our perception of the present from our expectations about the future. Climate change, mass consumption, or the dizzying development of tech without an ethical background are some of the challenges that we have to face. As an agent that design things that have agency and affect the world, designers have the role of being conscious about all processes and the tracks that these “things” left both behind and forward. Society is undergoing a paradigms shift. We can compare this change with industrialization, back then the change was principally driven by economy and profit. At this moment, designers will have a chance to drive shift and lay the groundwork for new realities to come. 
+
+
 ### POBLENOU TOUR
 
 ![](../images/img07.jpg)
