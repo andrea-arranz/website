@@ -24,9 +24,58 @@ Forensics of the Obsolescence (iMac2006)
  
 **Tested:** Working
 
-![](../images/img16.jpg)
+**Forensic Questions**
+It is a personal computer , used for personal work  like word processors, it has a camera and microphone built in, for video calls for example, and also has a pair of speakers for sound reproducing.
+This model has an optical unit or CD/DVD ROM that can reproduce and burn cd/dvd. This could be used for playing videos or movies.
+This computer has a WIFI modem, so it can be connected to the internet.
+It had an Intel processor and 8 GB of RAM. It have a monitor and  3 USB ports, 2 input/output for audio and video, and Ethernet port
+This device could be used for personal use or work.
+
+**Conclusions**
+
+It was all different kinds of functions and its parts combined in one box. Each functional part was connected to the motherboard with plugs in.
+
+Most of the parts are made by different suppliers. 
+
+Camera, speakers, disc utility, microphone, and hard drive are easy to recognize. 
+
+When we accidentally dropped the CPU to the floor, it bent and was unable to be used again. Some parts are really fragile when it's open.
+
+There are more than 100 screws used inside.
+
+Most of the metal parts are aluminum. Metals are both manufactured by stamping, the stand might be molded. 
+
+Plastic parts(box) are coated polycarbonate.
+
+Everything except the screen is covered with an aluminium sheet in order to avoid heat and radiation.
+
+Some screws are hidden and some parts are glued so that Apple technical support will be able to know if a user opens the computer by themself so that Apple will not support it anymore.
 
 **A World in Data**
+
+![](../images/img44.jpg)
+
+**Project Objective:** We want to have a place to eat lunch inside IAAC
+
+Question: Are all spaces at IAAC in use during the lunch time?
+
+Hypothesis: - Lunch&Afternoon Data “There is a space for a (covid-safe)
+lunch?” - Morning Data “Are there people in Iaac interested in having a
+space to have lunch?”
+
+**Recollecting Data**
+We used the PiCamera to record Iaac spaces in two different ways: 
+
+1. The camera was taking pictures while we moved around the different spaces of IAAC. 
+2. Static timelapse: the camera was place in the entrance and captured everything that happened there.
+For the camera settings, we decided to use a low resolution (320x240px).
+![](../images/img16.jpg)
+Poster at the entrance to see how people react. 
+![](../images/img45.png)
+
+Data summary
+![](../images/img46.png)
+![](../images/img47.png)
 
 
 **Almost useless machine: A3P2**
