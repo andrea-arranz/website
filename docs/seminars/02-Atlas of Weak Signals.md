@@ -25,6 +25,8 @@ First Collective design space with Post-consumer group
 Final Collective design space with Metahumans
 ![](../images/img41.png)
 
+The collective interests within the group go across the spectrum of human-technology relationships; we include some general spheres as the physical form of tech, the relation human-tech, function, and its issues. Our main topics and concerns include the emotional and materiality of tech, data privacy, and data visualization, phygital identities, and interfaces.
+
 Multiscalar diagram
 
 ![](../images/img43.png)
