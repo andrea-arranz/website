@@ -2,10 +2,12 @@
 hide:
     - toc
 ---
+# Design Studio
+
 # Design Studio I
 
 **Toolbox**
-![](../images/img13.png)
+![](../images/img37.png)
 
 **RESEARCH THROUGH DESIGN TOOLBOX**
 
