@@ -14,3 +14,18 @@ After this exercise we started developing our first moodboard in the design spac
 ![](../images/img11.png)
 First design space
 
+
+![](../images/img40.png)
+Personal design space update
+
+First Collective design space with Post-consumer group
+![](../images/img42.png)
+
+
+Final Collective design space with Metahumans
+![](../images/img41.png)
+
+Multiscalar diagram
+
+![](../images/img43.png)
+
