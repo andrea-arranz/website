@@ -5,7 +5,15 @@ hide:
 
 # Bio&Agri Zero
 
+A week in photographs
 
+![](../images/img48.jpg =300px)
+![](../images/img49.jpg =300px)
+![](../images/img50.jpg =300px)
+![](../images/img51.jpg =300px)
+![](../images/img52.jpg =300px)
+
+Science paper
 **Bioluminescence of the Largest Luminous Vertebrate, the Kitefin Shark, Dalatias licha: First Insights and Comparative Aspects**
 
 **Jérôme Mallefet, Darren W. Stevens and Laurent Duchatelet**
@@ -27,7 +35,7 @@ Since Edison created the first commercially practical incandescent light, our li
 ![](../images/img18.jpg)
 Ambio- Teresa van Dongen
 
-**Design a mutant**
+**Design a mutant**iGEM
 
 I started with one simple question: **It’s possible to use photocytes or photoproteins to use them on screens?**
 
