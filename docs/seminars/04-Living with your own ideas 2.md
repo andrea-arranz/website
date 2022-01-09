@@ -31,6 +31,8 @@ DEFAMILIARIZATION OF SPACE AND THINGS**
 
 *"Some links between objects become evident using these techniques. My day started with a mirror in a kitchen and ended with some makeup, a hairbrush, and others."*
 
+**Reflections**
+
 **Defined study boundaries, describe the limits of the study.**
 
 At first, I tried to make defamiliarization of the domestic things, so I thought that things were my point, but when the day started I realized that the spaces where I placed the “new” things also were affected because the actions I played with the objects. Also, I thought only about domestic things but it changed when I started thinking about bringing outside things as domestic ones. So finally the experiment blurred the limits by itself. 
