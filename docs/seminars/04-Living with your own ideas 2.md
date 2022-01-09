@@ -4,8 +4,12 @@ hide:
 ---
 
 # Living with your own ideas
+**Magic object**
 
-First approach; *do a magic object*
+The magic machine workshop was about designing and thinking by making with scrap material a "magic machine" that fills the needs of an imaginary person. 
+I started drawing a "self" that look tired so that's why I prototype a machine related to time and its course. 
+Finally, I finished the prototype as a new approach to measuring our life quality by seeing how many coffees we drink during a week. It works as a visual stimulus with the amount of bags and olfactory as well as the smell of coffee. 
+with the group, I felt a deep connection between us because all our prototypes were related to perception and senses, a way to explore new ways of interaction. 
 
 ![](../images/img12.jpg)
 New ways to sense the time, use smells to perceive the time. 
