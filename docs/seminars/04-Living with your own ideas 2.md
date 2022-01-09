@@ -24,7 +24,6 @@ DEFAMILIARIZATION OF SPACE AND THINGS**
 
 *Experimental day*
 
-![](../images/img14.gif)
 
 - Put things that “belong” to one space into another. *“The form that is perhaps most appropriate to the weird is montage-the conjoining of two or more things which do not belong together”. “The conviction that this does not belong- is often a sign that we are in the presence of the new”* - Mark Fisher, The weird and the eerie. 
 - Use things in an appropriate way. 
@@ -62,4 +61,6 @@ I am embodied in research about data, habits, things and consumerism so I chose 
 **Generalizability, does it relate to others?**
 
 I think that it can be meaningful to others because “things” or objects were not a close space. Waste and the ways we waste are also habits related to things. Also it’s important the behaviour we have and in which spaces. As I study domestic spaces and our relations with it other people study public space and our relations with it, so there is a connexion between both.  
+
+![](../images/img14.gif)
 
