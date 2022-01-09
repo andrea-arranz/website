@@ -7,11 +7,11 @@ hide:
 
 A week in photographs
 
-![](../images/img48.jpg =300px)
-![](../images/img49.jpg =300px)
-![](../images/img50.jpg =300px)
-![](../images/img51.jpg =300px)
-![](../images/img52.jpg =300px)
+![](../images/img48.jpg =300x)
+![](../images/img49.jpg =300x)
+![](../images/img50.jpg =300x)
+![](../images/img51.jpg =300x)
+![](../images/img52.jpg =300x)
 
 Science paper
 **Bioluminescence of the Largest Luminous Vertebrate, the Kitefin Shark, Dalatias licha: First Insights and Comparative Aspects**
