@@ -30,9 +30,13 @@ A prose to make evident our surroundings in a try to visualize the loss we provo
 
 **WTF is the Internet?**  “The representation of the networking of the social”
 
-**WTF is time?** The concept of time is the capacity of motion, of becoming. The process of becoming ("in motion"), as opposed to being ("static"). The perception of time is relative but needs the difference, a reference point on which to observe a change. The human perception of time is inherent to our capacity to perceive change, and in turn, there is nothing more cultural than the way we perceive it.
+**WTF is time?** The concept of time is the capacity of motion, of becoming. The process of becoming ("in motion"), as opposed to being ("static"). The perception of time is relative but needs the difference, a reference point on which to observe a change. The human perception of time is inherent to our capacity to perceive change, and in turn, there is nothing more cultural than the way we perceive it. *"Likewise and during every day of an unillustrious life, time carries us. But a moment always comes when we have to carry it."*
 
 ![](../images/img55.jpg) 
-*"Likewise and during every day of an unillustrious life, time carries us. But a moment always comes when we have to carry it."*
 
 ![](../images/img56.png)
+
+
+![](../images/img57.png)
+The most average person (photograph created by AI)
+
