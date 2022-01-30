@@ -41,6 +41,7 @@ A prose to make evident our surroundings in a try to visualize the loss we provo
 The most average person (photograph created by AI)
 
 ##Future city of Jakarta.
+
 Mayor's speech. 
 
 <iframe src="https://player.vimeo.com/video/666547642?h=056398cb87" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
