@@ -60,7 +60,9 @@ margin:auto;
 #img {
             position: relative;
         }
-
+        .mi-cursor {
+    cursor: url("esca.png")
+}
   </style>
 </head>
 <body style="background-color: rgb(0, 0, 0);">
@@ -77,12 +79,12 @@ margin:auto;
     </ul>
     </div>
 
-    <img src="esca.png" id="img">
+    <img class='img' src="esca.png" id="img">
     <script>
     var img=document.getElementById('img');
     document.onmousemove=function (e) { 
-      img.style.left=e.pageX-750 + 'px';
-      img.style.top=e.pageY-250 + 'px';
+      img.style.left=e.pageX+'px';
+      img.style.top=e.pageY-'px';
         }
     </script>
 
