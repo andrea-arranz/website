@@ -25,8 +25,8 @@
 }
 #navegador li a {
    padding: 4px 20px 4px 20px;
-   color: rgb(255, 255, 255);
-   background-color: #000000;
+   color: rgb(0, 0, 0);
+   background-color: #ffffff;
    border: none;
    text-decoration: none;
    font-family: sans-serif;
@@ -39,20 +39,53 @@
 .p1 {
   font-family: 'Courier New', Courier, monospace;
   font-size: 50pt;
+  color:black;
 }
 .p2 {
   font-family: 'Courier New', Courier, monospace;
   font-size: 20pt;
+  color:black;
 }
 
 .img1{
 display:block;
 margin:auto;
 }
+#columna1 {
+position:absolute;
+top:320px;
+left: 50px;
+width:200px;
+margin-top:10px;
+background-color:#ffffff;
+}
+#columna2 {
+margin-left:500px;
+margin-right:50px;
+margin-top:10px;
+background-color:#ffffff;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #ffffff;
+  padding: 10px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  text-decoration-color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+
+}
 
   </style>
 </head>
-<body style="background-color: rgb(0, 0, 0);">
+<body style="background-color: rgb(255, 255, 255);">
 
 
   <li><a href="../../../index.html"><img class="img1" src="../../../esc.png" width="50" height="50" alt="escarabajo"></a></li> 
@@ -68,10 +101,39 @@ margin:auto;
       </div>
       <div class="grid-container">
         <div class="grid-item">
-
+   
         </div>
-
-
-
+        <div id="columna1">
+          <img class="alineadoTextoImagenArriba" src="images/img17.png" width="200%" height="200%"/>
+          <img class="alineadoTextoImagenArriba" src="images/img18.png" width="200%" height="200%"/>
+          <img class="alineadoTextoImagenArriba" src="images/img19.png" width="200%" height="200%"/>
+      
+  
+    
+      </div>
+      <div id="columna2">
+        <p class="p1"><b> Challenge 03.</b></p1>
+          <p class="p2"> Memes have become a means of communication. If we think about the first polytones used in cell phones, there was already an intrinsic communication in their selection. The use of images or other forms as a means of communication is used worldwide and every time we look for new shortcuts. In our mobile we have folders with our favorite gifs or our most used emojis. In this case what we seek to do is to generate a physical interface that allows us to have a shortcut for liberal images that can be memes as a direct form of communication. </p>
+          <p class="p2">This challenge was hard to understand what we were doing at the time, we wanted to develop a complex physical interface using pieces of old keyboards, this was a bit frustrating, as we tried several times and none of them worked correctly. However, I think we were able to turn around what we wanted and develop a simple physical interface that nevertheless helped us to simplify the use of the keyboard. 
+            In this challenge I have been in charge of the connection between Arduino and p5js, which, although it seems complicated, is quite simple once you have done it the first time. </p>
+          <p class="p2"></p>
+          <p class="p2">Prototyping</p>
+          <div class="grid-container">
+            <div class="grid-item">
+          <img src="../challenges/images/img16.jpg" width="120%" height="70%" alt="prototyping">
+        </div>
+          <div class="grid-item">
+            <img src="../challenges/images/img15.jpg" width="120%" height="70%" alt="prototyping">
+        </div>
+          <div class="grid-item">
+          </div>
+          <div class="grid-item">
+            <img src="../challenges/images/gif1.gif" width="120%" height="70%" alt="prototyping">
+        </div>
+ 
+          <p class="p2">In my opinion, in this challenge I learned to lose my fear of coding using different programming languages.I also enjoyed a lot with the most artistic and fun part of this challenge even not knowing if I could finish it on time, something that had not happened to me in the previous challenge in which it cost me more to enjoy it.</p>
+          <p class="p2">You can find more information about the project here: <a href="https://github.com/busi-mgwen/Fab-Challenge-3"
+            title="repository">MemePad</a></li></p>
+  </div>
 </body>
 </html>
